@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\204441\New folder (2)\2DGame-NPC_Oldman\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1637731351.index
+1065698620.index
